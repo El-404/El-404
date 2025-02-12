@@ -1,8 +1,7 @@
 ## El C
 ---
 # Current occupation:
-  Lead programmer for Frc team 9149 [^abc]
-  [^abc]: test
+  Lead programmer for Frc team 9149
 ---
 # Currently learning:
   Rust. <br>
