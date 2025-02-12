@@ -1,9 +1,9 @@
 # El C
 ---
 ### Current occupation:
-  Lead programmer for Frc team 9149
+&nbsp;Lead programmer for Frc team 9149
 ---
 ### Currently learning:
-  Rust. <br>
-  Making a small game because I'm crazy. (Code not public) <br>
-  √√☻☺☻♥ Status: no progress. (I'm busy)
+&nbsp;Rust. <br>
+&nbsp;Making a small game because I'm crazy. (Code not public) ♦<br>♠
+&nbsp;&nbsp;Status: no progress. (I'm busy)
