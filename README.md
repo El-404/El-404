@@ -1,4 +1,5 @@
-# Current occupation: - Lead programmer for Frc team 9149
+# Current occupation: 
+## - Lead programmer for Frc team 9149
 
 ---
 
