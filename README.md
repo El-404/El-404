@@ -1,5 +1,6 @@
-# Current occupation: 
+# Current occupations: 
   - ### Lead programmer for FRC team 9149
+  - ### Student
 
 ---
 
