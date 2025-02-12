@@ -6,4 +6,4 @@
 ### Currently learning:
   Rust. <br>
   Making a small game because I'm crazy. (Code not public) <br>
-    Status: no progress. (I'm busy)
+  √√☻☺☻♥ Status: no progress. (I'm busy)
